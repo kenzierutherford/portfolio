@@ -1,0 +1,67 @@
+<head>
+  <title>Kenzie's Pages</title>
+</head>
+
+<body style="background-color:lavender;">
+  <h1 style="text-align:center;">Kenzie Rutherford</h1>
+  <br>
+  <img src="<a href="https://ibb.co/mw6fVQ"><img src="https://preview.ibb.co/cfXLVQ/image1.jpg" alt="image1" border="0"></a><br / style="width:304px;height:228px;">
+  <p style="text-align:center;">Girls Who Code Blog</p>
+  <hr></hr>
+</body>
+
+<body>
+  <h3 style="text-align:left;">About Me:</h3>
+  <p style="text-align:left;">Hello all, and welcome to my blog! I am a rising Junior at Kingston High School. <br>I am captain of our Cross Country team and love running with my cross country and track team mates. <br>I also am a member of the speech and debate team and compete
+    in duo and congress.<br> In the limited free time I have I enjoy writting poetry, petting dogs and talking about feminism.
+</body>
+
+<body>
+  <h2> Robots and Ethics</h2>
+  <h3>July 17th, 2017</h3>
+  <p>My idea of what robot is has changed. It used to simply be a machine that was able to perform tasks and interact with humans. My idea of what a robot is had been skewed by the presence of technology and sciene fiction in society. But now, i know that
+    robots and be simpler and not act at such a high level. As for the future, I think robots will do amazing things and will have the ability to make the world a better place.</p>
+  <p>I enjoyed doing the circuits and beginning to work with the robots but I was a little confused as to how it worked. I like working in a group on projects like this becuase it allows me to share my ideas with other people and grow intellectualy.</p>
+</body>
+
+<body>
+  <h2> Women in Tech</h2>
+  <h3>July 18th, 2017</h3>
+  <p>Manuela Veloso's and Ayanna Howard's work share a common goal of introducing and embracing Robots in our society. Wheather it be in a hospital, school or home; both of these women have dedicated their lives to robotics and technology.</p>
+  <p>My team worked really well together for the light show. We finished our project and were all able to contribute. We desiganted tasks and collaborated on ideas and helped eachother fix problems. We could have managed our time better which would have
+    allowed us to do more. </p>
+  <p>The basic pieces of every Arduino sketch are setup(), loop(), pinMode(), digitalWrite() and delay(). </p>
+</body>
+
+<head>
+<>
+.container {
+    position: relative;
+}
+
+.center {
+    position: absolute;
+    left: 0;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+}
+
+img { 
+    width: 100%;
+    height: auto;
+    opacity: 0.3;
+}
+</head>
+<body>
+
+<h2>Image Text</h2>
+<p>Center text in image:</p>
+
+<div class="container">
+  <img src="<a href="https://ibb.co/mw6fVQ"><img src="https://preview.ibb.co/cfXLVQ/image1.jpg" alt="image1" border="0"></a><br />alt="Costa Rica" width="1000" height="50">
+  <div class="Kenzie Rutherford">Centered</div>
+</div>
+
+</body>
