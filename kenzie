@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+<html>
 <head>
   <title>Kenzie's Pages</title>
 </head>
@@ -32,6 +34,8 @@
     allowed us to do more. </p>
   <p>The basic pieces of every Arduino sketch are setup(), loop(), pinMode(), digitalWrite() and delay(). </p>
 </body>
+
+</html>
 
 <head>
 <>
