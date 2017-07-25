@@ -35,8 +35,6 @@
   <p>The basic pieces of every Arduino sketch are setup(), loop(), pinMode(), digitalWrite() and delay(). </p>
 </body>
 
-</html>
-
 <head>
 <>
 .container {
@@ -69,3 +67,5 @@ img {
 </div>
 
 </body>
+
+</html>
