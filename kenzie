@@ -7,7 +7,7 @@
 <body style="background-color:lavender;">
   <h1 style="text-align:center;">Kenzie Rutherford</h1>
   <br>
-  <img src="image1.jpg" alt="image1" border="0"></a><br / style="width:304px;height:228px;">
+  <img src="image1.JPG" alt="image1" border="0"></a><br / style="width:304px;height:228px;">
   <p style="text-align:center;">Girls Who Code Blog</p>
   <hr></hr>
 </body>
@@ -62,7 +62,7 @@ img {
 <p>Center text in image:</p>
 
 <div class="container">
-  <img src="image1.jpg" alt="image1" border="0"></a><br />alt="Costa Rica" width="1000" height="50">
+  <img src="image1.JPG" alt="image1" border="0"></a><br />alt="Costa Rica" width="1000" height="50">
   <div class="Kenzie Rutherford">Centered</div>
 </div>
 
