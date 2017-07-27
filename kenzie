@@ -71,5 +71,11 @@ img {
   <p>The basic pieces of every Arduino sketch are setup(), loop(), pinMode(), digitalWrite() and delay(). </p>
 </body>
 
+<body>
+  <h2>Django Reflection</h2>
+  <h3>July 27th, 2017</h3>
+  <p>Well to start, I would like to complete my Django Blog. I feel like with more time I could get it up, and then if time allows I would like to change the color scheme of the blog as well. I like to finish things and it is bothering me that my site is not completed yet so making sure it is done and up would be my main priority. If we could have more time, even an hour more to work on it, it would be really nice! I do like the way we are creating it and Djangogirls is really helpful and easy to understand most of the time.</p>
+</body>
+
 
 </html>
